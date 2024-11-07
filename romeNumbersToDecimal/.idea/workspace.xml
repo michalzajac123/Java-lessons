@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="65447ea5-4901-4e33-8e40-d7d1bcdc9a06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../romeNumbersToDecimal/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../romeNumbersToDecimal/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../romeNumbersToDecimal/src/Main.java" afterDir="false" />
+    <list default="true" id="7f963756-d6ef-40e0-b98c-431e241f5529" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,10 +25,10 @@
     "accountId": "479c6fd7-7ec1-46f0-bae6-b61d5d3fa2c9"
   }
 }]]></component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
-}</component>
-  <component name="ProjectId" id="2mcOk9bBUggYf62fsS9mCVCD0hE" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2nPtRoBZPRCzpPm3TYD77CTzdsk" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -42,12 +39,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Users/michal_zajac/Desktop/Java/Rysowanie Figur/src/Main.java",
+    "onboarding.tips.debug.path": "/Users/michal_zajac/Desktop/Java/romeNumbersToDecimal/src/Main.java",
+    "settings.editor.selected.configurable": "vcs.Git",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -62,14 +56,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="65447ea5-4901-4e33-8e40-d7d1bcdc9a06" name="Changes" comment="" />
-      <created>1727372537390</created>
+      <changelist id="7f963756-d6ef-40e0-b98c-431e241f5529" name="Changes" comment="" />
+      <created>1728886533024</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727372537390</updated>
-      <workItem from="1727372538407" duration="326000" />
-      <workItem from="1727962588903" duration="10000" />
-      <workItem from="1728886692252" duration="4000" />
+      <updated>1728886533024</updated>
+      <workItem from="1728886534089" duration="153000" />
     </task>
     <servers />
   </component>
@@ -81,7 +73,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>19</line>
+          <line>29</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
